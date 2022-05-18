@@ -27,6 +27,7 @@ Here are some ideas to get you started:
   <a href="https://twitter.com/ayiaware">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
+
 </div>
 
 
@@ -50,7 +51,7 @@ I am a Software Developer who loves <img src="https://media.giphy.com/media/WUlp
 
 - 💬 Ask me about Age Of Empires
 
-- :mailbox:How to reach me: [![Twitter Badge](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ayiaware)
+- [![Gmail Badge](https://img.shields.io/badge/-getmeayia@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:getmeayia@gmail.com)](mailto:getmeayia@gmail.com)
 
 
 ## ⚡ Technologies
