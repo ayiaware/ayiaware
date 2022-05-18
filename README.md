@@ -50,6 +50,8 @@ I am a Software Developer who loves <img src="https://media.giphy.com/media/WUlp
 - 👯 I’m looking to collaborate on Android Application projects 
 
 - 💬 Ask me about Age Of Empires
+ 
+- ⚡ Fun fact: Freelancers originally referred to self-employed, sword-wielding mercenaries: literally “free lancers.”
 
 - [![Gmail Badge](https://img.shields.io/badge/-getmeayia@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:getmeayia@gmail.com)](mailto:getmeayia@gmail.com)
 
@@ -65,7 +67,7 @@ I am a Software Developer who loves <img src="https://media.giphy.com/media/WUlp
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ayiaware&theme=dark&background=000000)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ayiaware&theme=dark&background=000000)](https://git.io/streak-stats) -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayiaware&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
