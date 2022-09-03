@@ -53,8 +53,6 @@ I am a Software Developer who loves <img src="https://media.giphy.com/media/WUlp
  
 - ⚡ Fun fact: Freelancers originally referred to self-employed, sword-wielding mercenaries: literally “free lancers.”
 
-- [![Gmail Badge](https://img.shields.io/badge/-getmeayia@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:getmeayia@gmail.com)](mailto:getmeayia@gmail.com)
-
 
 ## ⚡ Technologies
 
