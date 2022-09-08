@@ -41,17 +41,15 @@ Here are some ideas to get you started:
 
 I am a Software Developer who loves <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Mobile Application Development.
 
-- :telescope: I’m currently working as a freelance Android Developer.
+- :telescope: I’m currently working as a Software Developer Analyst.
 
-- :seedling: Exploring Technical Content Writing and Rust language.
+- :seedling: Exploring Technical Content Writing and Back End Development.
 
-- :zap: In my free time, I workout and read tech articles.
-
-- 👯 I’m looking to collaborate on Android Application projects 
+- :zap: In my free time, I workout and read tech articles. 
 
 - 💬 Ask me about Age Of Empires
  
-- ⚡ Fun fact: Freelancers originally referred to self-employed, sword-wielding mercenaries: literally “free lancers.”
+- ⚡ Fun fact : Freelancers originally referred to self-employed, sword-wielding mercenaries: literally “free lancers.”
 
 
 ## ⚡ Technologies
@@ -64,8 +62,6 @@ I am a Software Developer who loves <img src="https://media.giphy.com/media/WUlp
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
-
-<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ayiaware&theme=dark&background=000000)](https://git.io/streak-stats) -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayiaware&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
