@@ -39,9 +39,9 @@ Here are some ideas to get you started:
 
 ### :man_technologist: About Me
 
-I am a Software Developer who loves <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Mobile Application Development.
+I am a Software Engineer who loves <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Mobile Application Development.
 
-- :telescope: I’m currently working as a Software Developer Analyst.
+- :telescope: I’m currently working as a System Analyst.
 
 - :seedling: Exploring Technical Content Writing and Back End Development.
 
