@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 
 ### :man_technologist: About Me
 
-I am a Software Engineer who loves <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Mobile Application Development.
+I am a Software Engineer who loves Mobile Application Development.
 
 - :telescope: I’m currently working as a System Analyst.
 
