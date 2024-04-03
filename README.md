@@ -21,12 +21,16 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/ayialink/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.instagram.com/ayiaware/">
-    <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-  </a>
   <a href="https://twitter.com/ayiaware">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
+  <a href="https://medium.com/@ayiaware">
+    <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=black" alt="Medium Badge"/>
+  </a>
+ <a href="https://stackoverflow.com/users/12931715/ayia">
+    <img src="https://img.shields.io/badge/Stack-overflow-orange?style=for-the-badge&logo=stack-overflow&logoColor=orange" alt="Stackoverflow Badge"/>
+  </a>
+ 
 
 </div>
 
