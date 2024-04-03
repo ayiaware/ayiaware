@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 
 I am a Software Engineer who loves Mobile Application Development.
 
-- :telescope: I’m currently working as a System Analyst.
+- :telescope: I’m currently working as a System Analyst and Product Manager.
 
 - :seedling: Exploring Technical Content Writing and Back End Development.
 
