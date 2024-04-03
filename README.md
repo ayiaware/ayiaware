@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 
 ### :man_technologist: About Me
 
-I am a Software Engineer who loves Mobile Application Development.
+I am a Software Engineer, System Analyst, and Product Manager with a degree in Applied Computer Science. I have a passion for Mobile Application Development.
 
 - :telescope: I’m currently working as a System Analyst and Product Manager.
 
