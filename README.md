@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 
 <h1 align="center">
-  hey there
+  Hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
@@ -54,10 +54,17 @@ I am a Software Engineer, System Analyst, and Product Manager with a degree in A
 
 ## ⚡ Technologies
 
-![Android](https://img.shields.io/badge/-Android-430098?style=flat-square&android)
+![Android](https://img.shields.io/badge/-Android-006400?style=flat-square&android)
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-430098?style=flat-square&kotlin)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![JavaScript](https://img.shields.io/badge/Javascript-blue?logo=javascript)
+![HTML](https://img.shields.io/badge/Html-blue?logo=html)
+![NodeJs](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=nodejs)
+![Flutter](https://img.shields.io/badge/-Flutter-purple?style=flat-square&logo=flutter)
+![Dart](https://img.shields.io/badge/-Dart-gray?style=flat-square&logo=dart)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=flat-square&logo=mongodb)
 ![Firebase](https://img.shields.io/badge/-Firebase-430098?style=flat-square&kotlin)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
