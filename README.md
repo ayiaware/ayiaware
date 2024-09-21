@@ -38,20 +38,8 @@ Here are some ideas to get you started:
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-
-### :man_technologist: About Me
-
-I am a Software Engineer, System Analyst, and Product Manager with a degree in Applied Computer Science. I'm here to learn.
-
-- :telescope: I’m currently working as a System Analyst and Product Manager.
-
-- :seedling: Exploring Technical Content Writing and Back End Development.
-
-- :zap: In my free time, I workout and read tech articles. 
-
-- 💬 Ask me about Age Of Empires
  
-- ⚡ Fun fact : Freelancers originally referred to self-employed, sword-wielding mercenaries: literally “free lancers.”
+⚡ Fun fact : Freelancers originally referred to self-employed, sword-wielding mercenaries: literally “free lancers.”
 
 
 ## ⚡ Technologies
