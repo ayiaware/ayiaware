@@ -38,10 +38,6 @@ Here are some ideas to get you started:
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
- 
-⚡ Fun fact : Freelancers originally referred to self-employed, sword-wielding mercenaries: literally “free lancers.”
-
-
 ## ⚡ Technologies
 
 ![Android](https://img.shields.io/badge/-Android-006400?style=flat-square&android)
@@ -50,7 +46,9 @@ Here are some ideas to get you started:
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![JavaScript](https://img.shields.io/badge/Javascript-blue?logo=javascript)
 ![HTML](https://img.shields.io/badge/Html-blue?logo=html)
-![NodeJs](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=nodejs)
+![NodeJs](https://img.shields.io/badge/-NodeJS-green?style=flat-square&logo=nodejs)
+![React.Js](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![PostgreSql](https://img.shields.io/badge/-PostgreSQL-gray?style=flat-square&logo=postgresql)
 ![Flutter](https://img.shields.io/badge/-Flutter-purple?style=flat-square&logo=flutter)
 ![Dart](https://img.shields.io/badge/-Dart-gray?style=flat-square&logo=dart)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
@@ -59,6 +57,7 @@ Here are some ideas to get you started:
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
+⚡ Fun fact : Freelancers originally referred to self-employed, sword-wielding mercenaries: literally “free lancers.”
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayiaware&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
