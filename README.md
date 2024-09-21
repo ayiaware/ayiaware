@@ -38,7 +38,6 @@ Here are some ideas to get you started:
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-## ⚡ Technologies
 
 ![Android](https://img.shields.io/badge/-Android-006400?style=flat-square&android)
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
