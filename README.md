@@ -1,24 +1,8 @@
-<!--
-**ayiaware/ayiaware** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="100"/>
 </div>
 
 <div id="badges" align="center">
-
   <a href="https://twitter.com/ayiaware">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
@@ -38,23 +22,23 @@ Here are some ideas to get you started:
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
+<p align="center">
+  <strong>I am a Software Engineer & Technical Product Manager, driving digital innovation in the Energy Sector.<br />
+  I'm here to learn primarily and then share my knowledge.</strong>
+</p>
 
-![Android](https://img.shields.io/badge/-Android-006400?style=flat-square&android)
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
-![Kotlin](https://img.shields.io/badge/-Kotlin-430098?style=flat-square&kotlin)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 ![JavaScript](https://img.shields.io/badge/Javascript-blue?logo=javascript)
+![Kotlin](https://img.shields.io/badge/-Kotlin-430098?style=flat-square&kotlin)
 ![HTML](https://img.shields.io/badge/Html-blue?logo=html)
 ![NodeJs](https://img.shields.io/badge/-NodeJS-green?style=flat-square&logo=nodejs)
 ![React.Js](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![PostgreSql](https://img.shields.io/badge/-PostgreSQL-gray?style=flat-square&logo=postgresql)
-![Flutter](https://img.shields.io/badge/-Flutter-purple?style=flat-square&logo=flutter)
-![Dart](https://img.shields.io/badge/-Dart-gray?style=flat-square&logo=dart)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=flat-square&logo=mongodb)
-![Firebase](https://img.shields.io/badge/-Firebase-430098?style=flat-square&kotlin)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![Android](https://img.shields.io/badge/-Android-006400?style=flat-square&android)
+
 
 ⚡ Fun fact : Freelancers originally referred to self-employed, sword-wielding mercenaries: literally “free lancers.”
 
