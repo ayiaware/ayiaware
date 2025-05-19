@@ -23,8 +23,7 @@
 </h1>
 
 <p align="center">
-  <strong>I am a Software Engineer & Technical Product Manager, driving digital innovation in the Energy Sector.<br />
-  I'm here to learn primarily and then share my knowledge.</strong>
+  <strong>Software Engineer & Technical Product Manager, driving digital innovation in the Energy Sector.<br /></strong>
 </p>
 
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
